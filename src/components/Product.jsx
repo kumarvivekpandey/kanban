@@ -123,7 +123,7 @@ const Product = () => {
     <div>
       <div className="display-button">
         <button onClick={toggleOptions}>
-          Display
+          Display:
         </button>
       </div>
       {isOptionsVisible && (
